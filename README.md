@@ -1,26 +1,26 @@
-# Analyse du domaine — Prénom Nom
+# Analyse du domaine — Joseph Karib
 
 ## Découverte de soi
 
-- Mes forces : ...
-    - Exemple : ...
-- Mes faiblesses ou points à améliorer : ...
-    - Exemple : ...
-- Seul(e) ou en équipe : ...
-    - Pourquoi et exemple : ...
-- Plutôt technique ou créatif : ...
+- Mes forces : Je suis une personne créative et curieuse. J'aime la musique et l'animation, et j'aime découvrir de nouvelles façons de m'exprimer.
+    - Exemple : Quand j'écoute de la musique, j'imagine des scénarios ou des ambiances qui pourraient correspondre au son.
+- Mes faiblesses ou points à améliorer : Je dois améliorer ma gestion du temps et ma capacité à commencer un projet sans trop réfléchir.
+    - Exemple :  Des fois, j'ai des idées qui m'intéresse, mais je prends du temps avant de commencer à les réaliser.
+- Seul(e) ou en équipe : Seul
+    - Pourquoi et exemple : Travailler seul me permet de développer mes idées à mon rythme, tandis que le travail d'équipe permet de combiner différentes compétences.
+- Plutôt technique ou créatif : Créatif, surtout la musique, l'animation et la création d'univers visuels.
 
 ## Exploration des domaines
 
 | Domaine | Intérêt | Pourquoi |
 |---|---|---|
-| Graphisme | ... | ... |
-| Vidéo et animation 2D | ... | ... |
-| 3D | ... | ... |
-| Web | ... | ... |
-| Jeux vidéo | ... | ... |
-| Développement logiciel | ... | ... |
-| Installations et expériences immersives | ... | ... |
+| Graphisme | +/- | J'aime les univers visuels et le style artistique des dessins animés. |
+| Vidéo et animation 2D | + | J'aime les cartoons et je trouve intéressant de donner vie à des personnages. |
+| 3D | +/- | Je suis curieux de découvrir comment les personnages et les environnements sont créés en trois dimensions. |
+| Web | - | Je ne suis pas tant intéressé avec le web, je trouve c'est trop compliqué. |
+| Jeux vidéo | +/- | J'aime l'idée de combiner des images, de l'animation et du son dans un même projet, mais je ne joue pas à des jeux vidéos. |
+| Développement logiciel | - | Je suis plus attiré par la création artistique que par la programmation. |
+| Installations et expériences immersives | +/- | J'aime l'idée de créer des expériences qui combinent le son, les images et l'interactivité. |
 
 ## Mes 2 domaines préférés
 
