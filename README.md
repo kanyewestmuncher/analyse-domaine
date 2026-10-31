@@ -34,8 +34,8 @@ Je suis intéressé par les projets qui combinent la musique, les images et les 
 
 ## Les caractéristiques de mon domaine préféré
 
-- Types d'entreprises : ...
-- Exemple d'entreprise : ...
+- Types d'entreprises : Dans le domaine de l'animation 2D, on retrouve principalement des studios de production audiovisuelle. Ces entreprises se spécialisent dans la création de films, de séries télévisées, de publicités et de contenus animés pour différentes plateformes. Certaines travaillent sur leurs propres projets tandis que d'autres réalisent des animations pour des clients.
+- Exemple d'entreprise : Un exemple d'entreprise est Studio Unagi. C'est un studio montréalais spécialisé dans l'animation 2D pour la télévision, le cinéma et les jeux vidéo. Il participe à la création de séries animées et travaille sur différentes étapes de production, de la conception des personnages jusqu'au résultat final.
 
 ![Nom de l'entreprise](entreprise.jpg)
 
