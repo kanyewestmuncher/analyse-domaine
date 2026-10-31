@@ -39,19 +39,19 @@ Je suis intéressé par les projets qui combinent la musique, les images et les 
 
 ![Nom de l'entreprise](entreprise.jpg)
 
-(source de l'image : ...)
+(source de l'image : https://studio-unagi.com/#work)
 
-- Types de produits et de services : ...
-- Étapes de production : ...
-- Type d'emploi visé : ...
-- Étapes pour obtenir cet emploi : ...
+- Types de produits et de services : Les studios d'animation produisent différents contenus audiovisuels comme des séries télévisées, des films d'animation, des courts métrages et des publicités. Ils offrent aussi des services comme la création de personnages, la conception des décors, le storyboard, l'animation 2D et le montage final.
+- Étapes de production : La première étape est l'idéation et la recherche, où il faut développer l'idée de la série, son histoire et son public cible. Ensuite, la préproduction qui consiste à écrire le scénario, créer les personnages et préparer le storyboard. Pendant la production, les animateurs donnent vie aux personnages et créent les décors et les scènes. La postproduction sert à ajouter les effets visuels, le son, la musique et à finaliser les épisodes. Finalement, le projet est diffusé à la télévision ou sur une plateforme en ligne
+- Type d'emploi visé : J'aimerais devenir animateur 2D / créateur de son dans un studio de production à la télé avec des gens comme Seth Macfarlane ou Trey Parker. Mon travail consisterait à donner des idées d'épisodes, donner vie aux personnages, créer leurs mouvements et participer à la réalisation des scènes d'une série animée. J'aimerais aussi pouvoir contribuer à la création de personnages et d'univers originaux.
+- Étapes pour obtenir cet emploi : Pour obtenir cet emploi, je devrais suivre une formation en animation 2D ou en création numérique afin d'apprendre les techniques et les logiciels nécessaires. Je devrais ensuite créer un portfolio avec mes dessins, mes personnages, ma musique et mes animations pour montrer mes compétences. Je pourrais aussi faire un stage dans un studio d'animation pour acquérir de l'expérience et éventuellement obtenir un emploi dans une entreprise du domaine.
 
 ## Conclusion
 
-- Mon profil en une phrase : ...
-- Ce qui m'a surpris : ...
-- Ma force principale et la faiblesse à travailler : ...
-- Mon action d'ici la fin de la session : ...
+- Mon profil en une phrase : Je suis une personne créative qui aime travailler sur des projets visuels et qui souhaite développer ses compétences dans le domaine de l'animation 2D.
+- Ce qui m'a surpris : J'ai été surpris par la quantité de travail et les différentes étapes nécessaires pour créer une série animée, de l'idée de départ jusqu'à la diffusion à la télévision.
+- Ma force principale et la faiblesse à travailler : Ma principale force est ma créativité et ma capacité à trouver de nouvelles idées. Ma faiblesse à travailler est ma difficulté à gérer mon temps et à respecter les délais.
+- Mon action d'ici la fin de la session : Je souhaite commencer à apprendre un logiciel d'animation 2D comme Toon Boom Harmony et réaliser une petite animation pour développer mon portfolio.
 
 ## Ma capsule
 
